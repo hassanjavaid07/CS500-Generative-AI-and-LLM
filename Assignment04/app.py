@@ -8,10 +8,10 @@
 This file i.e. app.py is shared for deployment on Hugging Face Spaces. This file was submitted as part of course
 CS-500 Generative AI & LLM conducted in ITU, Lahore during Fall-2024.g
 
-Hugging Face Space Link:
+Hugging Face Space Link: https://huggingface.co/spaces/trident-10/Researcher-RAG/tree/main
 
 
-GitHub Repo Link:
+GitHub Repo Link: https://github.com/hassanjavaid07/CS500-Generative-AI-and-LLM/tree/main/Assignment04
 
 
 This file and relavant repos are the property of the author and is under MIT License. Give credit when sharing.
