@@ -24,3 +24,6 @@ datasets
 gradio
 langserve
 pymupdf
+ratelimit
+tenacity
+openai
